@@ -1,0 +1,3 @@
+[submodule "voice_clone"]
+	path = voice_clone
+	url = git@hf.co:spaces/Dewiin/voice_clone
